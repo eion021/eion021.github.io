@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Teacher's Day</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #2c3e50;
+            font-size: 48px;
+        }
+        p {
+            color: #34495e;
+            font-size: 24px;
+        }
+        .message-box {
+            background-color: #ecf0f1;
+            padding: 20px;
+            margin-top: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+        .btn {
+            background-color: #3498db;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+            display: inline-block;
+            font-size: 18px;
+        }
+        .btn:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <h1>Happy Teacher's Day!</h1>
+    <div class="message-box">
+        <p>To all the amazing teachers out there,</p>
+        <p>Thank you for your dedication, wisdom, and guidance. You inspire us to dream, to learn, and to reach for the stars!</p>
+        <p>Wishing you a day filled with appreciation and joy. Happy Teacher's Day!</p>
+    </div>
+    <a href="#" class="btn">Send Your Thanks</a>
+</body>
+</html>
